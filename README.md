@@ -5,7 +5,7 @@
     <p align="center">피트니스 센터, 트레이너와 회원을 위한 일정 관리 앱</p>
     <br />
     <p align="center">
-      <a href="https://main.to-be-healthy.site/">웹 사이트</a>
+      <a href="https://main.to-be-healthy.site/">웹 사이트</a> <br/>
       <a href="https://apps.apple.com/kr/app/%EA%B1%B4%EA%B0%95%ED%95%B4%EC%A7%90/id6547838272/">애플 앱스토어</a>
     </p align="center">
 </p>
