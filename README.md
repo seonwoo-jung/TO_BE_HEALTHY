@@ -68,7 +68,7 @@
 <br />
 
 ## 백엔드 기술 스택
-- 프레임워크 및 언어: Java (JDK 17), Spring Boot, JPA
+- 프레임워크 및 언어: Java (JDK 17), Kotlin, Spring Boot, JPA, QueryDSL
 - 데이터베이스: MySQL 8.0
 - 캐시: Redis
 - 인증 및 로그인: Spring Security, OAuth, JWT
