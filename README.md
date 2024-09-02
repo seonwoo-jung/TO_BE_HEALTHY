@@ -31,9 +31,9 @@
 ## 핵심 기능
 
 <p align="center">
-    <img src="https://github.com/to-be-healthy/FrontEnd/assets/102174146/96784978-d903-47bf-832d-8433da311ae8" width="300">
-    <img src="https://github.com/to-be-healthy/FrontEnd/assets/102174146/05e70f40-4c75-4349-bfaa-fedc69cbc923" width="300">
-    <img src="https://github.com/ChaeRin-Im/to-be-healthy/assets/72774476/13d25e34-2c91-437f-9020-1e33a63ad4a4" width="300">
+    <img src="https://github.com/to-be-healthy/FrontEnd/assets/102174146/96784978-d903-47bf-832d-8433da311ae8" width="250">
+    <img src="https://github.com/to-be-healthy/FrontEnd/assets/102174146/05e70f40-4c75-4349-bfaa-fedc69cbc923" width="250">
+    <img src="https://github.com/ChaeRin-Im/to-be-healthy/assets/72774476/13d25e34-2c91-437f-9020-1e33a63ad4a4" width="250">
 </p>
 
 - 일정 관리: 트레이너와 회원 간의 실시간 예약 및 일정 관리 기능 제공
